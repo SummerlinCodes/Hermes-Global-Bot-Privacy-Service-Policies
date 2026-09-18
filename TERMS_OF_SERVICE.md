@@ -5,7 +5,7 @@
 
 ## 1. Acceptance of Terms
 
-By accessing or using **TEKSystems PNC Java Bootcamp Bot** (the "Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Bot.
+By accessing or using **SummerlinCodes** (the "Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Bot.
 
 These Terms apply to all users, including users who are also representatives of organizations or entities ("Affiliates"). By using the Bot on behalf of an entity, you represent that you have authority to bind that entity to these Terms, in which case "you" and "your" refer to that entity.
 
@@ -102,9 +102,8 @@ These Terms are governed by the laws of the jurisdiction in which the Bot operat
 
 For questions about these Terms, contact:
 
-- **Email:** [YOUR_EMAIL_HERE]
-- **Discord:** [YOUR_DISCORD_USERNAME]
-- **Website:** [YOUR_WEBSITE_URL]
+- **Discord:** SummerlinCodes
+- **Website:** https://SummerlinCodes.github.io
 
 ---
 *This Terms of Service is a template and should be reviewed by legal counsel before publication.*

@@ -5,7 +5,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy describes how **TEKSystems PNC Java Bootcamp Bot** ("the Bot," "we," "us," or "our") collects, uses, stores, and discloses information when you interact with the Bot on Discord. This policy applies to all users of the Bot across all Discord servers and direct messages.
+This Privacy Policy describes how **SummerlinCodes** ("we," "us," or "our") collects, uses, stores, and discloses information when you interact with the Bot on Discord. This policy applies to all users of the Bot across all Discord servers and direct messages.
 
 By interacting with the Bot, you consent to the data practices described in this policy. If you do not agree, cease using the Bot immediately.
 
@@ -88,9 +88,8 @@ We may update this policy periodically. Changes will be posted with a new effect
 
 For privacy-related questions, requests, or concerns:
 
-- **Email:** [YOUR_EMAIL_HERE]
-- **Discord:** [YOUR_DISCORD_USERNAME]
-- **Website:** [YOUR_WEBSITE_URL]
+- **Discord:** SummerlinCodes
+- **Website:** https://SummerlinCodes.github.io
 
 ---
 *This privacy policy is a template and should be reviewed by legal counsel before publication.*
